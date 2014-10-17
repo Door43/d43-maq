@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[maq:home|Door43 (maq)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-maq|d43-maq repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-maq/archive/master.zip|d43-maq.zip]]
+
+**Recent Changes**
+{{changes>ns = maq}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/maq|Ethnologue data]]
+
